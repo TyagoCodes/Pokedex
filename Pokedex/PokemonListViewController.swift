@@ -35,6 +35,8 @@ class PokemonListViewController: UIViewController, UITableViewDataSource, UITabl
     }
 
     func fetchPokemons() {
+        //Idéalement limite de 1450 pour afficher tout les pokemons mais ios simulateur ne peut pas handle autant donc je dois limiter a 50 avec offset 0
+        //guard let url = URL(string: "https://pokeapi.co/api/v2/pokemon?limit=1400&offset=0") else { return }
         guard let url = URL(string: "https://pokeapi.co/api/v2/pokemon?limit=50&offset=0") else { return }
 
         URLSession.shared.dataTask(with: url) { [weak self] data, response, error in

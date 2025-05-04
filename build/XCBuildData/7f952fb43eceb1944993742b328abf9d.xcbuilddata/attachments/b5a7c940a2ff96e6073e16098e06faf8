@@ -1,0 +1,88 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokedex-master.dia",
+    "emit-module-dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokedex-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokedex-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokedex-master.swiftdeps"
+  },
+  "/Users/tyago/Documents/School/ios1/Projects/Pokedex/Pokedex/AppDelegate.swift" : {
+    "const-values" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/tyago/Documents/School/ios1/Projects/Pokedex/Pokedex/Pokemon.swift" : {
+    "const-values" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokemon.swiftconstvalues",
+    "dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokemon.d",
+    "diagnostics" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokemon.dia",
+    "index-unit-output-path" : "/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokemon.o",
+    "llvm-bc" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokemon.bc",
+    "object" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokemon.o",
+    "swift-dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokemon.swiftdeps",
+    "swiftmodule" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/Pokemon~partial.swiftmodule"
+  },
+  "/Users/tyago/Documents/School/ios1/Projects/Pokedex/Pokedex/PokemonDetails.swift" : {
+    "const-values" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetails.swiftconstvalues",
+    "dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetails.d",
+    "diagnostics" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetails.dia",
+    "index-unit-output-path" : "/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetails.o",
+    "llvm-bc" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetails.bc",
+    "object" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetails.o",
+    "swift-dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetails.swiftdeps",
+    "swiftmodule" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetails~partial.swiftmodule"
+  },
+  "/Users/tyago/Documents/School/ios1/Projects/Pokedex/Pokedex/PokemonDetailsViewController.swift" : {
+    "const-values" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetailsViewController.swiftconstvalues",
+    "dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetailsViewController.d",
+    "diagnostics" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetailsViewController.dia",
+    "index-unit-output-path" : "/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetailsViewController.o",
+    "llvm-bc" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetailsViewController.bc",
+    "object" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetailsViewController.o",
+    "swift-dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetailsViewController.swiftdeps",
+    "swiftmodule" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonDetailsViewController~partial.swiftmodule"
+  },
+  "/Users/tyago/Documents/School/ios1/Projects/Pokedex/Pokedex/PokemonListViewController.swift" : {
+    "const-values" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonListViewController.swiftconstvalues",
+    "dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonListViewController.d",
+    "diagnostics" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonListViewController.dia",
+    "index-unit-output-path" : "/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonListViewController.o",
+    "llvm-bc" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonListViewController.bc",
+    "object" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonListViewController.o",
+    "swift-dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonListViewController.swiftdeps",
+    "swiftmodule" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/PokemonListViewController~partial.swiftmodule"
+  },
+  "/Users/tyago/Documents/School/ios1/Projects/Pokedex/Pokedex/SceneDelegate.swift" : {
+    "const-values" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/tyago/Documents/School/ios1/Projects/Pokedex/Pokedex/ViewController.swift" : {
+    "const-values" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/tyago/Documents/School/ios1/Projects/Pokedex/build/Pokedex.build/Debug-iphonesimulator/Pokedex.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
